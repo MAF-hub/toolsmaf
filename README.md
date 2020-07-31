@@ -1,3 +1,8 @@
-# toolsmaf
-ESTE SCRIPT TE CLONA LAS HERRAMIENTAS MAS UTLIZADAS EN EL HACKING + BUSCADORES DE LA DEEP WEB 
-python2 toolsmaf.py
+este es un script que se ira mejorando al pasar de los dias o semanas 
+#USO
+este script tiene diferentes usos como
+-generar un payload
+-clonar herramientas para los que estan iniciando en el hacking
+-enseñar a los nuevos ,cosas que les va a servir.
+
+#END
