@@ -1,3 +1,4 @@
+#!/src/env/ python3
 # -*- coding: utf-8 -*-
 import sys, os, webbrowser, platform
 from time import sleep
